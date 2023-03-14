@@ -1,0 +1,31 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "Bank Challenge.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranBejarano/bank-challenge.git"
+  },
+  "keywords": [],
+  "author": "Fran Bejarano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranBejarano/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/FranBejarano/bank-challenge#readme",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
